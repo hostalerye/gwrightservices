@@ -1,0 +1,23 @@
+mainSections = ['services']
+
+[logo]
+  main = 'img/logo/logo.png'
+  alt = 'G Wright Services logo'
+  size = 'h-14'
+
+[site]
+  name = 'G Wright Services'
+
+[icon]
+  fa5 = true
+
+[homepage_meta_tags]
+  meta_description = "G Wright Services - Terrassement, services équestres, construction de carrières, clôtures..."
+  meta_og_title = "G Wright Services"
+  meta_og_type = "website"
+  meta_og_url = "https://gwrightservices.com"
+  meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+  meta_og_description = "G Wright Services - Terrassement, services équestres, construction de carrières, clôtures..."
+
+
+

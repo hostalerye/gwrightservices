@@ -1,0 +1,6 @@
+baseURL = 'https://gwrightservices.com/'
+title = 'G Wright Services'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+languageCode = 'fr'
+defaultContentLanguage = 'fr'
+enableRobotsTXT = true

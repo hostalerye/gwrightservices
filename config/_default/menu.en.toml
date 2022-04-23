@@ -1,0 +1,23 @@
+[[main]]
+  identifier = 'services'
+  name = 'Services'
+  url = '/services'
+  weight = 1
+
+[[main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about'
+  weight = 2
+
+[[main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/contact'
+  weight = 3
+
+[[footer]]
+  name = 'Facebook'
+  url = 'https://www.facebook.com/Gwrightservics'
+  pre = '<i class="icon-facebook text-2x1"></i>'
+  weight = 1
